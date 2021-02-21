@@ -7,6 +7,10 @@ html, body {
   color: #222;
 }
 
+.form-container {
+    padding: 1rem;
+}
+
 /* Dropdown button */
 .dropdown .dropbtn {
   border: none;
